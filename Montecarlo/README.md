@@ -1,7 +1,11 @@
-## Solving business tasks using the 'Monte Carlo' method
+## Проекты с применением метода Монте-Карло
 
-| Project name | Description | Libraries used | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Profits distribution for oil company](https://github.com/svotyakov/Montecarlo/blob/main/Bootstrap_profits_distribution.ipynb) | Finding profit distribution, risk of losses with Bootstrap| *pandas, numpy, sklearn, matplotlib, seaborn* |
-| | | |
-| [Monte-carlo theory](https://github.com/svotyakov/Montecarlo/blob/main/Monte-carlo_theory.ipynb) |Solving the most famous tasks in probability theory using the Monte Carlo method| *pandas, numpy, math, random* |
+#### 1. Необходимо постоить модель распределения прибыли для нефтяной компании методом бутстрап. Для этого у нас есть три нефтяных участка и информация по запасам нефти уже в разведаных скважинах. Необходимо выбрать оптимальный участок исходя из критериев задания. Для построения распределения вероятностей прибыли используется метод bootstrap.
+| Название проекта | Используемые библиотеки | 
+| :---------------------- |  :---------------------- |
+| [Построение модели для распределения прибыли](https://github.com/svotyakov/Yandex.Practium/blob/main/Montecarlo/Bootstrap_profits_distribution.ipynb) | *pandas, numpy, sklearn, matplotlib, seaborn* |
+
+#### 2. Увлекательные задачи по теории вероятности, которые решаются методом Монте-Карло. Как пример "Русская рулетка. Есть револьвер с 2 вставленными подряд патронами. Первый участник крутит барабан и стреляет и остается жив. Что лучше для второго участника: покрутить барабан или сразу нажать на курок?"
+| Название проекта | Используемые библиотеки | 
+| :---------------------- |  :---------------------- |
+| [Теория Монте-Карло](https://github.com/svotyakov/Yandex.Practium/blob/main/Montecarlo/Monte-carlo_theory.ipynb) | *pandas, numpy, math, random* |
