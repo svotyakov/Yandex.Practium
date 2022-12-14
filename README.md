@@ -30,3 +30,8 @@
 | [Предсказание токсичных комментариев](https://github.com/svotyakov/Yandex.Practium/blob/main/Natural-Language-Processing-NLP/Finding_toxic_commentsPipelineLR.ipynb) |Построение модели, которая будет отправлять подозрительные комментарии пользователей на модерацию. | *pandas, numpy, sklearn(TfidfVectorizer, LogisticRegression, f1_score, train_test_split, Pipeline, GridSearchCV, FeatureUnion), nltk, re, Detoxify* |
 | | | |
 | [Предсказание токсичных комментариев Detoxify](https://github.com/svotyakov/Yandex.Practium/blob/main/Natural-Language-Processing-NLP/Finding_toxic_comments_Detoxify.ipynb) |Построение модели, которая будет отправлять подозрительные комментарии пользователей на модерацию с использованием модуля Detoxify, вычисления с GPU, Colab. | *pandas, numpy, sklearn(TfidfVectorizer, LogisticRegression, f1_score, train_test_split, Pipeline, GridSearchCV, FeatureUnion), nltk, re, Detoxify* |
+
+#### [Анализ временных рядов](https://github.com/svotyakov/Yandex.Practium/tree/main/Time_series_forecasting)
+| Название проекта| Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Предсказание загрузки такси](https://github.com/svotyakov/Yandex.Practium/blob/main/Time_series_forecasting/Next_hour_predictions.ipynb) |Для привлечения оптимального водителей в различные временные периоды, нужно спрогнозировать количество заказов такси на следующий час. | *pandas, numpy, seasonal_decompose, sklearn(mean_squared_error, train_test_split, LinearRegression, TimeSeriesSplit), lightgbm, matplotlib.pyplot|
