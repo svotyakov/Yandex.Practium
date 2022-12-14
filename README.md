@@ -2,4 +2,4 @@
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Проекты на А/Б тестирование](https://github.com/svotyakov/Yandex.Practium/tree/main/A_B_testing) | Теория и интересные моменты для корректного проведения A/Б с примерами на Python| *pandas, numpy, scipy stats, matplotlib* |
+| [A_B_test_ Theory](https://github.com/svotyakov/Yandex.Practium/blob/main/A_B_testing/A_B_test_%20Theory.ipynb) |Теория с практическими примерами по А/Б тестированию. В работе представлены не только стандартные примеры по p-value, но и применимость t-testа к различным выборкам, способы определения размера выборки, сущность Alpha-коэффициента и мощности теста.| *pandas, numpy, scipy stats, matplotlib* |
