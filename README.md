@@ -34,4 +34,4 @@
 #### [Анализ временных рядов](https://github.com/svotyakov/Yandex.Practium/tree/main/Time_series_forecasting)
 | Название проекта| Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Предсказание загрузки такси](https://github.com/svotyakov/Yandex.Practium/blob/main/Time_series_forecasting/Next_hour_predictions.ipynb) |Для привлечения оптимального водителей в различные временные периоды, нужно спрогнозировать количество заказов такси на следующий час. | *pandas, numpy, seasonal_decompose, sklearn(mean_squared_error, train_test_split, LinearRegression, TimeSeriesSplit), lightgbm, matplotlib.pyplot|
+| [Предсказание загрузки такси](https://github.com/svotyakov/Yandex.Practium/blob/main/Time_series_forecasting/Next_hour_predictions.ipynb) |Для привлечения оптимального водителей в различные временные периоды, нужно спрогнозировать количество заказов такси на следующий час. | *pandas, numpy, seasonal_decompose, sklearn(mean_squared_error, train_test_split, LinearRegression, TimeSeriesSplit), lightgbm, matplotlib.pyplot*|
