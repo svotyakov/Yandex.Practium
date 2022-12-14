@@ -1,5 +1,12 @@
 # Мои проекты
 
+#### [Предобработка данных, WebScraping](https://github.com/svotyakov/Yandex.Practium/tree/main/WebScraping_DataPreprocessing)
+| Название проекта| Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Создание новых признаков](https://github.com/svotyakov/Yandex.Practium/blob/main/WebScraping_DataPreprocessing/creating_new_features/Data_analysis_creating_new_features.ipynb) |Суть задачи в том, что на текущих датасете качество обучения модели очень низкое и надо что-то сделать, чтобы выяснить закономерности в данных| *pandas, numpy, matplotlib, seaborn, sklearn(StandardScaler, MDS, DecisionTreeClassifier, PolynomialFeatures, GridSearchCV), itertools, CatBoostClassifier, tqdm* |
+| | | |
+| [Анализ, создание и трансформация признаков (Телеком)](https://github.com/svotyakov/Yandex.Practium/blob/main/WebScraping_DataPreprocessing/telecom_analysis/rus/Telecom_classification.ipynb) |В работе рассматриваются различные методы трансформации данных для дальнейшего использования в модели машинного обучения, бинарная классификация| *pandas, numpy, matplotlib, seaborn, sklearn(GridSearchCV, TfidfVectorizer), itertools, CatBoostClassifier, lightgbm, tqdm* |
+
 #### [А/Б тестирование](https://github.com/svotyakov/Yandex.Practium/tree/main/A_B_testing)
 | Название проекта| Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
