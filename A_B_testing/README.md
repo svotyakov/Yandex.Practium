@@ -1,5 +1,7 @@
-## A/B testing projects
+## Проекты на А/Б тестирование
 
-| Project name | Description | Libraries used | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [A/B testing theory](https://github.com/svotyakov/A_B_testing/blob/main/A_B_test_%20Theory.ipynb) | Making A/B testing using several methods| *pandas, numpy, scipy stats, matplotlib* |
+#### 1. Теория с практическими примерами по А/Б тестированию. В работе представлены не только стандартные примеры по p-value, но и применимость t-testа к различным выборкам, способы определения размера выборки, сущность Alpha-коэффициента и мощности теста.
+| Название проекта | Используемые библиотеки | 
+| :---------------------- |  :---------------------- |
+| [A_B_test_ Theory](https://github.com/svotyakov/Yandex.Practium/blob/main/A_B_testing/A_B_test_%20Theory.ipynb) | *pandas, numpy, scipy stats, matplotlib* |
+
